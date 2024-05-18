@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\gopir\github-classroom\cs442app\mp4-GopiShankarR\build\windows\CMakeFiles\bf9dba689f5756ddf0dc1708dbde95ed\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{79A55FC3-7FD7-39EE-9C16-C70CEA24CACC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

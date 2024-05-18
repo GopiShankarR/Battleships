@@ -1,0 +1,9 @@
+C:/Users/gopir/github-classroom/cs442app/mp4-GopiShankarR/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/gopir/github-classroom/cs442app/mp4-GopiShankarR/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/gopir/github-classroom/cs442app/mp4-GopiShankarR/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/gopir/github-classroom/cs442app/mp4-GopiShankarR/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/gopir/github-classroom/cs442app/mp4-GopiShankarR/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/gopir/github-classroom/cs442app/mp4-GopiShankarR/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/gopir/github-classroom/cs442app/mp4-GopiShankarR/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/gopir/github-classroom/cs442app/mp4-GopiShankarR/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/gopir/github-classroom/cs442app/mp4-GopiShankarR/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
